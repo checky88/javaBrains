@@ -10,7 +10,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String sayHi()
 	{
-		return "Hi...";
+		return "Just changing this for new branch...";
 	}
 
 }
